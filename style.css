@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(204, 208, 208);
+    text-align: center;
+}
+p{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'roboto';
+    padding: 5px;
+}
+
+.red-h-text{
+    color: red;
+    font-size: 18px;
+    font-family: 'outfit';
+    font-style: normal;
+     margin-bottom: 36px
+}
+.red-h1-text{
+    font-family: 'roboto';
+    font-style: normal;
+    font-size: 48px;
+    font-weight: 500;
+    color: #ff4848;
+    margin-bottom: 54px;
+}
+.first-tatup{
+    height: 258px;
+    width: 471px;
+    margin: 40px auto;
+    box-shadow: -1px 2px 5px 0px rgba(181,169,169,0.75);
+
+}
+.peach-container{
+    display: flex;
+    background-color: #FCEBEB;
+    height: 227px;
+    padding-top: 32px;
+}
+.half2{
+    margin-left: 59px;
+}
+.contact{
+    display: flex;
+    margin-left: 70px;
+}
+.red-container{
+    background-color: #ff1515;
+    color: white;
+}
+.second-tatup{
+    width: 471px;
+    height: 258px;
+    border: solid 1px white;
+    background-color: white;
+    margin: auto;
+    
+}
+.input{
+    margin: auto;
+}
+label{
+    font-size: 24px;
+    color: white;
+    font-size: 'roboto';
+}
+input{
+    margin-top: 15px;
+    height: 38px;
+    width: 229px;
+}
+.input-container{
+    display: flex;
+    margin: auto;
+    background: linear-gradient(130deg, #32a2e1 80%, #fff 20%);
+    height: 59px;
+    width: 382px; 
+    margin-top: 14px;
+}
+
+.second-polygon{
+    height: 47px;
+    width: 47px;
+    margin-top: 14px;
+    margin-right: 18px;
+   
+}
+.instruction-p{
+font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 21px;
+letter-spacing: 0em;
+text-align:center;
+font-style: normal;
+
+}
+.card-code{
+    display: flex;
+    border-bottom: 1px solid rgb(164, 165, 165);
+    border-top: 1px solid rgb(158, 155, 155);
+}
+.numbers{
+    font-size: 13px;
+    font-family: 'roboto';
+    line-height: 15px;
+    font-weight: 400;
+    text-align: left;
+    padding-left: 10px;
+}
+.bar-code{
+    margin-top: 16px;
+    margin-left: 190px;
+}
